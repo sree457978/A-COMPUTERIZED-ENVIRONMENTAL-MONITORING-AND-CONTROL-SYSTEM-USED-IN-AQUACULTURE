@@ -1,4 +1,5 @@
 Computerized Environmental Monitoring and Control System in Aquaculture
+
 Purpose: Enhances aquaculture productivity by monitoring and controlling water quality.
 
 Components: Utilizes sensors for temperature, pH, turbidity, and dissolved oxygen.
